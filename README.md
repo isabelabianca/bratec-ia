@@ -4,8 +4,8 @@ Demonstração de como funcionará o reconhecimento e transcrição do áudio gr
 
 <ul>
 Bibliotecas Utilizadas:
-  <li>Speech Recognition</li>
-  <li>PyAudio</li>
+  <li><a href="https://pypi.org/project/SpeechRecognition/">Speech Recognition</a></li>
+  <li><a href="https://pypi.org/project/PyAudio/">PyAudio</a></li>
 </ul>
   
 <ul>
